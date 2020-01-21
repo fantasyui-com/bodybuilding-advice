@@ -68,7 +68,7 @@ const advice = [
   `Move your feet, like a boxer.`,
   `Never Stop.`,
   `Never use machines that require sitting or laying down.`,
-  `Prepare to comeback tomorrow.`,
+  `Prepare to return tomorrow.`,
   `Put all the weights you are not using back on the rack.`,
   `Put your phone away.`,
   `Quit smoking, moisture/sweat increases the ability to detect smells, a smoker can smell like an ashtray 40ft. down wind from a fan. You have to quit, people can't care about you if you don't care about yourself.`,
