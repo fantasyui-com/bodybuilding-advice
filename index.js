@@ -1,7 +1,7 @@
 const advice = [
   `Ask your older self about the regrets they may have. Will they be happy you never finished and always quit?`,
   `A two hour non-stop workout, it is a reward for persistence earned with several months of preparation and endurance training.`,
-  `A Workout is similar to reaching Mount Everest. Before you arrive you have to educate your mind and incrementally prepare your body by increasing its endurance. If you just dress yourself to look like everybody else, get the same equipment, and notebooks, and even friends; you will not triumph, you will either give up, fail, or die a stupid and worthless death.`,
+  `A Workout is similar to reaching Mount Everest. Before you arrive you have to educate your mind and incrementally prepare your body by increasing its endurance.`, // If you just dress yourself to look like everybody else, get the same equipment, and notebooks, and even friends; you will not triumph, you will either give up, fail, or die a stupid and worthless death.`,
   `A workout must be non stop, once you stop, it is over, you go home, rest and workout a little bit longer the next day.`,
   `A workout should last over two hours.`,
   `Become a great warrior.`,
