@@ -1,6 +1,6 @@
 {
   "name": "bodybuilding-advice",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Bodybuilding Advice for Humans",
   "main": "index.js",
   "scripts": {
